@@ -547,10 +547,6 @@ dotnet_diagnostic.SA1615.severity = suggestion
 # Element return value documentation should have text
 dotnet_diagnostic.SA1616.severity = suggestion
 
-# https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/SA1617.md
-# Void return value should not be documented
-dotnet_diagnostic.SA1617.severity = suggestion
-
 # https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/SA1633.md
 # The file header is missing or not located at the top of the file.
 dotnet_diagnostic.SA1633.severity = suggestion
